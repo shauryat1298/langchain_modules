@@ -10,3 +10,8 @@ beautifulsoup4
 pypdf
 chromadb
 faiss-cpu
+arxiv
+ipykernel
+wikipedia
+langchain_ollama
+langchain_openai
