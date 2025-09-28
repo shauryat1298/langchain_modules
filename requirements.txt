@@ -17,3 +17,4 @@ langchain_ollama
 langchain_openai
 langchain-groq
 groq
+langchain-huggingface
